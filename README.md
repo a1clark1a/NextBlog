@@ -1,5 +1,7 @@
 # Next.js/SanityStudio Blog
 
+## Live: https://nextblogtest.vercel.app/
+
 ```
 
 # Install the Sanity command line interface
